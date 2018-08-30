@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PracticeLayout_4</string>
+    <string name="img_superior">Imagen Superior</string>
+    <string name="img_central">Imagen Central</string>
+    <string name="img_inferior">Imagen Inferior</string>
+    <string name="button"> BUTTON</string>
+</resources>
